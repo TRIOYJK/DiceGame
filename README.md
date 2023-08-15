@@ -12,3 +12,9 @@ The idea is to develop an interactive dice game using HTML, CSS,JS . And to prov
 # To view the website
 
 https://trioyjk.github.io/DiceGame/
+
+# Contributors
+
+[![](https://github.com/Yasaswini25.png?size=50)](https://github.com/Yasaswini25) [![](https://github.com/JayanthReddyG.png?size=50)](https://github.com/JayanthReddyG) [![](https://github.com/komalreddy3.png?size=50)](https://github.com/komalreddy3)
+
+
